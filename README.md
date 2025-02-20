@@ -5,7 +5,7 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 ![License](https://img.shields.io/github/license/barnamelisa/DesignPatterns?color=yellow)
 
-📌 This repository contains Java implementations of various **Design Patterns**, categorized into **Creational, Structural, and Behavioral** patterns. Each pattern is explained with real-world examples and UML diagrams.
+📌 This repository contains Java implementations of various **Design Patterns**, categorized into **Creational, Structural, and Behavioral** patterns. Each design pattern is **implemented and explained through a clear, real-world example**, making it easy to understand its purpose and how it works.
 
 ---
 
@@ -14,8 +14,6 @@
 - [🚀 Patterns Implemented](#-patterns-implemented)  
 - [💻 How to Use](#-how-to-use)  
 - [📂 Folder Structure](#-folder-structure)  
-- [📜 License](#-license)  
-- [🤝 Contributions](#-contributions)  
 
 ---
 
@@ -27,28 +25,26 @@ Design patterns are best practices used by experienced developers to solve commo
 
 ## 🚀 Patterns Implemented  
 
-### 🏗️ **Creational Patterns**  
-✔️ Singleton  
+### 🏗️ **Creational Patterns**   
 ✔️ Factory Method  
 ✔️ Abstract Factory  
-✔️ Builder  
-✔️ Prototype  
 
 ### 🏛️ **Structural Patterns**  
-✔️ Adapter  
-✔️ Bridge  
-✔️ Composite  
-✔️ Decorator  
-✔️ Facade  
+✔️ Adapter    
 ✔️ Proxy  
 
 ### 🔄 **Behavioral Patterns**  
 ✔️ Strategy  
 ✔️ Observer  
-✔️ Command  
-✔️ State  
-✔️ Template Method  
-✔️ Chain of Responsibility  
+
+---
+
+## 🚀 Folder Structure
+-   The repository is organized into 3 main folders, each corresponding to a type of design pattern:
+
+   -   **`creational/`**: This folder contains implementations of creational design patterns like Factory Method and Abstract Factory.
+   -   **`structural/`**: This folder contains implementations of structural design patterns such as Adapter and Proxy.
+   -   **`behavioral/`**: This folder contains implementations of behavioral design patterns, including Strategy and Observer.
 
 ---
 
