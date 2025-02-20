@@ -40,7 +40,7 @@ Design patterns are best practices used by experienced developers to solve commo
 ---
 
 ## 🚀 Folder Structure
--   The repository is organized into 3 main folders, each corresponding to a type of design pattern:
+The repository is organized into 3 main folders, each corresponding to a type of design pattern:
 
    -   **`creational/`**: This folder contains implementations of creational design patterns like Factory Method and Abstract Factory.
    -   **`structural/`**: This folder contains implementations of structural design patterns such as Adapter and Proxy.
@@ -50,7 +50,6 @@ Design patterns are best practices used by experienced developers to solve commo
 
 ## 💻 How to Use  
 
-### 🔹 **Clone the Repository**  
 ```sh
 git clone https://github.com/barnamelisa/DesignPatterns.git
 cd DesignPatterns
